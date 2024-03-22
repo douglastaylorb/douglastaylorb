@@ -1,7 +1,7 @@
 
 ### Hello World! 👋
 #
-Eu Sou o Douglas! 
+Eu sou o Douglas! <br>
 Sou um entusiasta da tecnologia e estudande de DevOps em formação. 😄
 
 Aqui estão algumas das tecnologias com as quais estou me desenvolvendo: 
