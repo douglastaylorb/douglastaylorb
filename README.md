@@ -24,8 +24,11 @@ Estou sempre aberto a novos desafios e oportunidades para aprender. Vamos conect
 ##
 
 <div>
-  <a href=https://www.linkedin.com/in/douglastaylor20><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
-    </a>
+  <a href=https://www.linkedin.com/in/douglastaylor20><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
+  <a href=mailto:douglastaylor20@gmail.com><img src=https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white></a>
+  <a href=https://www.instagram.com/douglastaylorph/><img src=https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white></a>
+
+
+
 </div>
 </div>
-[![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglastaylorb)](https://github.com/douglastaylorb/github-readme-stats)
