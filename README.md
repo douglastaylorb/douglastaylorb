@@ -28,3 +28,4 @@ Estou sempre aberto a novos desafios e oportunidades para aprender. Vamos conect
     </a>
 </div>
 </div>
+[![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglastaylorb)](https://github.com/douglastaylorb/github-readme-stats)
