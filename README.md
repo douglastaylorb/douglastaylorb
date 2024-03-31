@@ -11,10 +11,14 @@ Aqui estão algumas das tecnologias com as quais estou me desenvolvendo:
   <img align="center" alt="icone-terraform" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
   <img align="center" alt="icone-ansible" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
   <img align="center" alt="icone-grafana" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain.svg" />
+  <img align="center" alt="icone-zabbix" height="50" width="50" src="https://www.intelstd.com/zabbix/img/touch-icon-192x192.png" />
   <img align="center" alt="icone-aws" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="icone-javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="icone-vue" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="icone-golang" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="icone-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="icone-postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="icone-postman" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 
 </div>
 
