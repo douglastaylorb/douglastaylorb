@@ -35,7 +35,7 @@ Estou sempre aberto a novos desafios e oportunidades para aprender. Vamos conect
 <br>
 </div>
 <div>
-<a href="https://github.com/douglastaylorbs">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglastaylorsb&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=douglastaylorsb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/douglastaylorb">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglastaylorb&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=douglastaylorb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
