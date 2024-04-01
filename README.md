@@ -25,7 +25,7 @@ Aqui estão algumas das tecnologias com as quais estou me desenvolvendo:
 </div>
 
 <br>
-Estou sempre aberto a novos desafios e oportunidades para aprender. Vamos conectar e construir algo incrível juntos!
+Estou sempre aberto a novos desafios e oportunidades para aprender. Vamos nos conectar e construir algo incrível juntos!
 
 ##
 
