@@ -21,6 +21,8 @@ Aqui estão algumas das tecnologias com as quais estou me desenvolvendo:
   <img align="center" alt="icone-vscode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="icone-postgres" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="icone-postman" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img align="center" alt="icone-nginx" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+  <img align="center" alt="icone-apache" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
 
 </div>
 
