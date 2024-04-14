@@ -11,7 +11,7 @@ Aqui estão algumas das tecnologias com as quais estou me desenvolvendo:
   <img align="center" alt="icone-terraform" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
   <img align="center" alt="icone-ansible" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
   <img align="center" alt="icone-grafana" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain.svg" />
-  <img align="center" alt="icone-zabbix" height="45" width="45" src="https://www.intelstd.com/zabbix/img/touch-icon-192x192.png" />
+  <img align="center" alt="icone-zabbix" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png" />
   <img align="center" alt="icone-aws" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="icone-html5" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="icone-css3" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
