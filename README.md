@@ -2,7 +2,7 @@
 ### Hello World! 👋
 #
 Eu sou o Douglas! 😄  <br>
-Sou um entusiasta da tecnologia e estudande de DevOps em formação. 
+Trabalho com tecnologia desde 2010 💻 
 
 Aqui estão algumas das tecnologias com as quais estou me desenvolvendo: 
 <div style= "display: inline_block">
