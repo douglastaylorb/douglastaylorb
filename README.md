@@ -1,7 +1,7 @@
 
 ### Hello World! 👋
 #
-Eu sou o Douglas! 😄  <br>
+
 
 <div style= "display: inline_block">
   <img align="center" alt="icone-linux" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
